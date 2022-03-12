@@ -5,10 +5,9 @@
 layout: default
 classes:
   - landing
-title: "Project 2: Meshedit"
 ---
 
-# Overview
+# Project 2: Meshedit -- Overview
 
 In this project, we've built a program for drawing Bezier curves/surfaces and have also explored triangle meshes using half-edge data structure. 
 
