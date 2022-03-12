@@ -5,8 +5,6 @@
 layout: default
 ---
 
-# Welcome! 
-
 On this page, you can take a look at the projects we've built for Computer Graphics class at UC Berkeley, CS184: Spring 2022 edition. 
 
 - [Project 1]({{ site.baseurl }}{% link proj1/index.html %})

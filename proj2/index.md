@@ -5,17 +5,17 @@
 layout: default
 classes:
   - landing
-  - dark-theme
 title: "Project 2: Meshedit"
 ---
 
-# Project 2: Meshedit - Overview
+# Overview
 
 In this project, we've built a program for drawing Bezier curves/surfaces and have also explored triangle meshes using half-edge data structure. 
 
 Built by Raiymbek Akshulakov & Yersultan Sapar. 
 
 # Section I
+***
 
 ## Part 1: Bezier Curves with 1D de Casteljau Subdivision
 
@@ -57,6 +57,7 @@ Built by Raiymbek Akshulakov & Yersultan Sapar.
 
 
 # Section II
+***
 
 ## Part 3: Area-Weighted Vertex Normals
 
