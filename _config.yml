@@ -21,7 +21,7 @@
 title: CS184/284A Project Webpages
 description: "" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cal-cs184-student.github.io/sp22-project-webpages-yersultan-17/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
