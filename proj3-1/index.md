@@ -7,7 +7,10 @@ classes:
   - landing
 ---
 
-# Project 3-1: Raytracer -- Overview
+# Project 3-1: Raytracer
+***
+
+# Overview
 
 In this project, we've implemented the raytracer with a pathtracing algorithm. Ray intersection tests, acceleration using BVH trees, illumination, sampling, Monte Carlo estimation and many more concepts from the class were heavily used in this project. While working on the it, we've encountered many problems with making sure that images correspond to the examples in the spec. Examining the differences, we could reinforce the concepts learned in the class and truly understand what part (whether it is intersection, shadows or bounding box errors) might be causing the problem. In short, we loved this assignment and looking forward to its follow-up!
 
