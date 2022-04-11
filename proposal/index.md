@@ -8,7 +8,10 @@ classes:
 ---
 
 # Soccer Ball Simulator: Proposal
-***
+
+<p float="middle"> 
+    <img src="img/header.jpg" width="600"/>
+ </p>
 
 # Summary
 
@@ -36,6 +39,10 @@ As it was outlined in the summary, our main goal is to create a realistic simula
 **Soccer net** - for the net, our goal is to simulate a realistic net response from the ball hitting the net as well as bouncing from the net polls.
 
 **Deliverables:** a demo with simplistic recreations of various soccer goals with an apparent ball spin like in both cases below. 
+<p float="middle"> 
+    <img src="img/image2.gif" width="350"/>
+    <img src="img/image1.gif" width="350"/>
+ </p>
 
 ## Quality Assessment
 
@@ -79,4 +86,9 @@ What each person will be responsible for (note that these are meant to align wit
 - CS184 Project 4 starter code 
 - FIFA 21 game - inspiration for video game animations 
 - We hope that our simulator can be run from laptop setup with cs184 imports 
+- Papers and links on numerical integration: 
+    - [https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/previousinformation/physics2numericalintegrationmethods/2017%20Tutorial%202%20-%20Numerical%20Integration%20Methods.pdf](https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/previousinformation/physics2numericalintegrationmethods/2017%20Tutorial%202%20-%20Numerical%20Integration%20Methods.pdf)
+    - [http://www.physics.umd.edu/hep/drew/numerical_integration/index.html](http://www.physics.umd.edu/hep/drew/numerical_integration/index.html)
+- Physics behind soccer balls: [https://news.mit.edu/2014/explained-how-does-soccer-ball-swerve-0617](https://news.mit.edu/2014/explained-how-does-soccer-ball-swerve-0617)
+
 
