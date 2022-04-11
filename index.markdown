@@ -11,4 +11,4 @@ On this page, you can take a look at the projects we've built for Computer Graph
 - [Project 2: Meshedit]({{ site.url }}{% link proj2/index.md %})
 - [Project 3-1: Raytracer]({{ site.url }}{% link proj3-1/index.md %})
 - [Project 3-2: Raytracer]({{ site.url }}{% link proj3-2/index.md %})
-- [Final Project Prposal]({{ site.url }}{% link proposal/index.md %})
+- [Final Project Proposal]({{ site.url }}{% link proposal/index.md %})
