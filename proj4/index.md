@@ -103,7 +103,7 @@ Here we’ve explored collisions of the cloth with two 3D primitives: sphere and
 - **Show us a screenshot of your shaded cloth lying peacefully at rest on the plane. If you haven't by now, feel free to express your colorful creativity with the cloth! (You will need to complete the shaders portion first to show custom colors.)**
     - We've used the mirror shader here.
         <p>
-        <img src="img/part3_sphere.png" width="600">
+        <img src="img/part3_plane.png" width="600">
         </p>
 
 # Part 4: Handling self-collisions
