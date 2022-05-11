@@ -76,7 +76,7 @@ F_app = dot(–F_wind, (pt.position – centroid)) * F_wind
 ```
 
 <p float="middle"> 
-    <img src="img/Wind.png" width="600"/>
+    <img src="img/windScheme.png" width="600"/>
 </p>
 
 The dot product between wind and direction from centroid gives us a `cos(theta)` term, where `theta` is the angle between the negative direction of the wind and the vector from the centroid to the surface point. The intuition is that if this angle is small (ie. the wind is hitting head on), the force should be larger, while if the angle is close to perpendicular (ie. the wind barely grazes the ball) then the force should be close to `0`. 
