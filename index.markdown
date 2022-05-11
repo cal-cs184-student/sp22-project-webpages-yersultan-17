@@ -12,5 +12,6 @@ Welcome! On this page, you can take a look at the projects we've built for Compu
 - [Project 3-1: Raytracer]({{ site.url }}{% link proj3-1/index.md %})
 - [Project 3-2: Raytracer]({{ site.url }}{% link proj3-2/index.md %})
 - [Project 4: Clothsim]({{ site.url }}{% link proj4/index.md %})
-- [Final Project Proposal]({{ site.url }}{% link proposal/index.md %})
-- [Final Project Milestone Report]({{ site.url }}{% link proposal/progress.md %})
+- [Final Project: Proposal]({{ site.url }}{% link proposal/index.md %})
+- [Final Project: Milestone]({{ site.url }}{% link proposal/progress.md %})
+- [Soccer Simulator]({{ site.url }}{% link soccersim/index.md %})
